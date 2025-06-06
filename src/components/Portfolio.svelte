@@ -4,17 +4,17 @@
         {
             title: 'Task & Notes Management',       
             link: 'https://www.figma.com/design/4KtcgFp9v0fmEc8vEXo3u0/Zendo?node-id=57-761&t=i8UjUIU5YV3pODS9-1',
-            img: '/src/assets/porto1.png',
+            img: '/porto1.png',
         },
         {
             title: 'Landing Page',       
             link: 'https://www.figma.com/design/9LSjcMqLXDL9vv6sAS0cih/Landing-Page?node-id=0-1&t=cVGreQ1D3pMtbw8c-1',
-            img: '/src/assets/porto2.png',
+            img: '/porto2.png',
         },
         {
             title: 'My Personal Portfolio Website',       
             link: 'https://www.figma.com/design/hwCFEiPcWRcUpukRdTe1M5/Personal-Portfolio?node-id=0-1&t=iOlvf3xA5JAT0HAL-1',
-            img: '/src/assets/porto3.png',
+            img: '/porto3.png',
         },
     ]
 </script>
