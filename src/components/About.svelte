@@ -5,7 +5,9 @@
     </h3>
     <div class="flex flex-col gap-1 text-sm md:text-base">
         <p class="text-primary">
-            My name is Efandio Attahya Nofianto, I from Indonesia and  I’m a 
+            My name is 
+            <span class="text-accent">Efandio Attahya Nofianto</span>
+            , I from Indonesia and  I’m a 
             <span class="text-accent">UI/UX Designer</span>
             who believes every digital product should be intuitive and delightful digital experiences.
         </p>

@@ -11,7 +11,9 @@
     <div class="w-full flex justify-center items-center">
         <h1 class="italic font-semibold w-fit h-fit border-b-4 border-accent px-4 rounded-full">Efandio</h1>
     </div>
+    <a href="#footer" class="w-full">
     <div class="hidden w-full md:flex justify-center items-center">
         <Button label='Contact' style='rounded-full bg-primary' />
     </div>
+    </a>
 </header>

@@ -15,7 +15,11 @@
     </div>
 
     <div class="flex items-center justify-between w-80 gap-5 md:w-120 md:gap-10">
-        <Button label='See my works' style='rounded-md bg-transparent border border-primary text-primary font-normal hover:bg-hover hover:text-background transition ease' />
-        <Button label='Lets Talk' style='rounded-md bg-primary hover:bg-primary/90' />
+        <a href="#portfolio" class="w-full">
+            <Button label='See my works' style='rounded-md bg-transparent border border-primary text-primary font-normal hover:bg-hover hover:text-background transition ease' />
+        </a>
+        <a href="#footer" class="w-full">
+            <Button label='Lets Talk' style='rounded-md bg-primary hover:bg-primary/90' />
+        </a>
     </div>
 </section>
